@@ -226,7 +226,7 @@ a:hover {
     gap: 0 0.75rem;
     padding: 0.9rem 0;
     border-bottom: 1px solid var(--border);
-    counter-increment: pub-counter;
+    counter-increment: pub-counter -1;
 }
 
 .pub-list > li:first-child {
